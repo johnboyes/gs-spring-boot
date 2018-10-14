@@ -3,7 +3,7 @@
 https://getting-started-spring-boot.herokuapp.com/
 
 [![CircleCI](https://circleci.com/gh/johnboyes/gs-spring-boot.svg?style=svg)](https://circleci.com/gh/johnboyes/gs-spring-boot)
-[![Heroku](http://heroku-badge.herokuapp.com/?app=getting-started-spring-boot&root=healthcheck.html)](https://getting-started-spring-boot.herokuapp.com/)
+[![Heroku](http://heroku-badge.herokuapp.com/?app=getting-started-spring-boot&svg=1&root=healthcheck.html)](https://getting-started-spring-boot.herokuapp.com/)
 
 The example application from the Spring Boot website: https://spring.io/guides/gs/spring-boot
 
