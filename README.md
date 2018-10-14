@@ -17,7 +17,13 @@ The example application on the Spring Boot website: https://spring.io/guides/gs/
 
 ## Running the tests
 
+### Running the unit tests
+
 `mvn test`
+
+### Running the integration tests
+
+`mvn verify`
 
 
 ## Continuous Integration
