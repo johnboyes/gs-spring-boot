@@ -1,5 +1,7 @@
 # Getting Started with Spring Boot - Example Application
 
+The example application on the Spring Boot website: https://spring.io/guides/gs/spring-boot
+
 ## Running the application
 
 ### Prerequisites
