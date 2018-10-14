@@ -14,3 +14,8 @@
 ## Running the tests
 
 `mvn test`
+
+
+## Continuous Integration
+
+[Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) is on [CircleCI](https://circleci.com/product/): https://circleci.com/gh/johnboyes/gs-spring-boot
