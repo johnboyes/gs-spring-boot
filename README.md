@@ -1,5 +1,7 @@
 # Getting Started with Spring Boot - Example Application
 
+https://getting-started-spring-boot.herokuapp.com/
+
 [![CircleCI](https://circleci.com/gh/johnboyes/gs-spring-boot.svg?style=svg)](https://circleci.com/gh/johnboyes/gs-spring-boot)
 
 The example application on the Spring Boot website: https://spring.io/guides/gs/spring-boot
@@ -29,3 +31,7 @@ The example application on the Spring Boot website: https://spring.io/guides/gs/
 ## Continuous Integration
 
 [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) is on [CircleCI](https://circleci.com/product/): https://circleci.com/gh/johnboyes/gs-spring-boot
+
+## Deploying the application
+
+The app deploys automatically to [Heroku](https://getting-started-spring-boot.herokuapp.com/) via the CI/CD pipeline.
