@@ -36,3 +36,9 @@ The example application from the Spring Boot website: https://spring.io/guides/g
 ## Deploying the application
 
 The app deploys automatically to [Heroku](https://getting-started-spring-boot.herokuapp.com/) via the CI/CD pipeline.
+
+## Spring Cloud Server Config
+
+The app will look for properties from a server running at http://localhost:8888
+
+You can verify that the properties are loaded by inspecting http://localhost:8080/actuator/env
