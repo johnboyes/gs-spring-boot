@@ -39,6 +39,6 @@ The app deploys automatically to [Heroku](https://getting-started-spring-boot.he
 
 ## Spring Cloud Server Config
 
-The app will look for properties from a server running at http://localhost:8888
+The app uses the Spring Cloud Config Server at https://gs-spring-cloud-config-server.herokuapp.com to fetch properties from https://github.com/johnboyes/gs-spring-cloud-config-git-storage
 
-You can verify that the properties are loaded by inspecting http://localhost:8080/actuator/env
+You can see the properties that are loaded by going to https://getting-started-spring-boot.herokuapp.com/actuator/env
