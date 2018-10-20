@@ -36,3 +36,9 @@ The example application from the Spring Boot website: https://spring.io/guides/g
 ## Deploying the application
 
 The app deploys automatically to [Heroku](https://getting-started-spring-boot.herokuapp.com/) via the CI/CD pipeline.
+
+## Spring Cloud Server Config
+
+The app uses the Spring Cloud Config Server at https://gs-spring-cloud-config-server.herokuapp.com to fetch properties from https://github.com/johnboyes/gs-spring-cloud-config-git-storage
+
+You can see the properties that are loaded by going to https://getting-started-spring-boot.herokuapp.com/actuator/env
